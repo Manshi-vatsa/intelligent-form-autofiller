@@ -39,3 +39,5 @@ AI-powered form auto-filler that extracts information from uploaded resumes (PDF
 Document text is extracted using pdfplumber/python-docx/Pillow, sent to Groq LLaMA model with a structured prompt, response parsed as JSON and mapped to form fields.
 ## Screenshots
 ![Home Page](screenshot.png)
+![Swagger docs page](Screenshot (352).png)
+![filled form page](Screenshot 2026-06-23 150701.png)
